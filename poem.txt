@@ -2,6 +2,7 @@ Rainbow,unicorn and ponies
 oraange 
 green
 yellow
+indigo
 unicorn
  this are the color of rainbow.
 and the unicorn.
